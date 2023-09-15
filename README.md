@@ -25,7 +25,7 @@ This project was created using the following Amplify features:
 3. Copy, paste and save in a secret place your Access Key and Secret Access Key. **It is important to keep both keys in a safe place and do not redistribute this keys to anybody.**
 4. [Install in your computer the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html#getting-started-install-instructions)
 5. [Install and configure Amplify CLI.](https://docs.amplify.aws/cli/start/install/) You can follow the guidelines in the previous link on how to install Amplify based on your OS.
-6. Download this repository by doing `git clone https://github.com/aws-samples/online-document-manager-amplify` or simply download source code.
+6. Download this repository by doing `git clone https://github.com/wildrodeo/test-amplify/` or simply download source code.
 7. In your terminal/console window, go to your code root folder and type `npm install` to install all the dependencies.
 8. Once finished, initialize AWS Amplify in the new directory by running `amplify init`. After a few configuration questions, you can use `amplify help` at any time to see the overall command structure
 9. To deploy all the resources, you can use the Amplify `push` command: `amplify push` and follow guidelines. 
